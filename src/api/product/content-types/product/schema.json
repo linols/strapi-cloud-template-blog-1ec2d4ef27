@@ -38,6 +38,10 @@
         "videos",
         "audios"
       ]
+    },
+    "position": {
+      "type": "integer",
+      "default": 0
     }
   }
 }
